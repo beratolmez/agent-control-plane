@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+bun.lockb
+workspaces/
+.DS_Store
+*.tsbuildinfo
+
+# Build artifacts / local bundles (e.g. the Retool import zip)
+*.zip
